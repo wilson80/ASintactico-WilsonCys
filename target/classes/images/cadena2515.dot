@@ -1,0 +1,6 @@
+digraph {   
+    node [shape = doublecircle, color = firebrick1] " ;
+    node [shape = circle];
+    node [color= firebrick1];
+    " -> D -> r -> a -> w ->   -> s -> q -> u -> a -> r -> e ->   -> u -> s -> i -> n -> g ->   -> p -> a -> t -> h ->   -> a -> t ->   -> ( -> x -> , ->   -> y -> ) -> . -> ";	
+}

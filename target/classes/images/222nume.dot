@@ -1,0 +1,6 @@
+digraph {   
+    node [shape = doublecircle, color = ] e ;
+    node [shape = circle];
+    node [color= ];
+    2 -> 2 -> 2 -> n -> u -> m -> e;	
+}

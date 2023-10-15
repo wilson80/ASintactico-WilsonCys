@@ -1,0 +1,6 @@
+digraph {   
+    node [shape = doublecircle, color = black] T ;
+    node [shape = circle];
+    node [color= black];
+    K -> _ -> R -> I -> G -> H -> T;	
+}

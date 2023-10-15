@@ -1,0 +1,8 @@
+digraph {   
+    node [shape = doublecircle, color = chartreuse] 
+ ;
+    node [shape = circle];
+    node [color= chartreuse];
+    # ->   -> I -> n -> i -> c -> i -> a -> l -> i -> z -> a -> m -> o -> s ->   -> e -> l ->   -> t -> a -> b -> l -> e -> r -> o ->   -> c -> o -> m -> o ->   -> u -> n -> a ->   -> l -> i -> s -> t -> a ->   -> d -> e ->   -> e -> s -> p -> a -> c -> i -> o -> s ->   -> v -> a -> c -> Ã -> ­ -> o -> s ->  -> 
+;	
+}
